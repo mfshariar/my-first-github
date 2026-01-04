@@ -1,6 +1,10 @@
-# One a learning Github reporjectore
+# 1. One time each project to start git
 git init
+
+# 2. every time to add
 git add .
+
+# 3. 
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/mfshariar/my-first-github.git
